@@ -1,0 +1,23 @@
+{
+  "name": "pratica-parcial-typescript-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FOOSSIILL/Pratica-parcial-typescript-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FOOSSIILL/Pratica-parcial-typescript-/issues"
+  },
+  "homepage": "https://github.com/FOOSSIILL/Pratica-parcial-typescript-#readme",
+  "devDependencies": {
+    "server": "^1.0.38"
+  }
+}
