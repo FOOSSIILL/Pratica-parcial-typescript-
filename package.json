@@ -1,23 +1,25 @@
 {
-  "name": "pratica-parcial-typescript-",
+  "name": "dca20231",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "serve"
+    "start": "tsc --watch",
+    "serve": "serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FOOSSIILL/Pratica-parcial-typescript-.git"
+    "url": "git+https://github.com/LeiderCalvo/DCA.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FOOSSIILL/Pratica-parcial-typescript-/issues"
+    "url": "https://github.com/LeiderCalvo/DCA/issues"
   },
-  "homepage": "https://github.com/FOOSSIILL/Pratica-parcial-typescript-#readme",
+  "homepage": "https://github.com/LeiderCalvo/DCA#readme",
   "devDependencies": {
-    "server": "^1.0.38"
+    "serve": "^14.2.0",
+    "typescript": "^4.9.5"
   }
 }
